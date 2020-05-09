@@ -36,7 +36,7 @@ Instances to be scheduled must have a `AutoStartSchedule`, `AutoStopSchedule` an
 
     We are using serverless for lambda setup on AWS
     
-    ```./deploy.sh <{stage} [{aws profile}]>``` stage can be dev or staging
+    ```./1 <{stage} [{aws profile}]>``` stage can be dev or staging
     
 
 ## Start and Stop Instance
